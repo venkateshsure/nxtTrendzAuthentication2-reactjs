@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.con-products {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
